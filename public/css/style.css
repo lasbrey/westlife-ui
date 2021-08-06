@@ -56,7 +56,7 @@ a {
 }
 
 .my-btn:after {
-    background: #d37057;
+    background: #4169E1;
     left: 8px;
     top: 8px;
 }
@@ -68,7 +68,7 @@ a {
 }
 
 .my-btn span {
-    background: #faebd7;
+    background: #4169E1;
     position: relative;
     color: #000!important;
     padding: 13px 30px;
@@ -149,14 +149,14 @@ blockquote {
     color: #fff;
 }
 .matched {
-    background-color: #dfdfc3;
+    background-color: #4169E1;
 }
 .full-window {
     padding: 150px 0 130px;
 }
 .txt-num-title {
     font-family: Aku, serif;
-    color: #d37057;
+    color: #4169E1;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 16px;
