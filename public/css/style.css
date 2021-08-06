@@ -1,5 +1,5 @@
 body {
-    background-color: #faebd7;
+    background-color: #f1f1f1;
     font-family: Canela, serif;
     margin: 0;
     background-size: 75%;
@@ -56,7 +56,7 @@ a {
 }
 
 .my-btn:after {
-    background: #d37057;
+    background: #4340df;
     left: 8px;
     top: 8px;
 }
@@ -68,12 +68,12 @@ a {
 }
 
 .my-btn span {
-    background: #faebd7;
+    background: #fff;
     position: relative;
     color: #000!important;
     padding: 13px 30px;
     z-index: 2;
-    border: 3px solid #000;
+    border: 1px solid #000;
 }
 
 
@@ -145,18 +145,21 @@ blockquote {
     font-size: inherit;
 }
 .bg-dark-blue {
-    background: #2f374c;
+    background: #001038;
     color: #fff;
 }
 .matched {
     background-color: #dfdfc3;
+}
+.no-pad {
+    padding: 0!important;
 }
 .full-window {
     padding: 150px 0 130px;
 }
 .txt-num-title {
     font-family: Aku, serif;
-    color: #d37057;
+    color: #4340df;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 16px;
