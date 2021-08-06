@@ -68,7 +68,7 @@ a {
 }
 
 .my-btn span {
-    background: #87CEFA;
+    background: transparent;
     position: relative;
     color: #000!important;
     padding: 13px 30px;
